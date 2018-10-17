@@ -1,0 +1,27 @@
+Original encoding is:
+Fwj fwj rjwj
+*** Number of shifts: 1 ***
+Gxk gxk skxk*** Number of shifts: 2 ***
+Hyl hyl tlyl*** Number of shifts: 3 ***
+Izm izm umzm*** Number of shifts: 4 ***
+Jan jan vnan*** Number of shifts: 5 ***
+Kbo kbo wobo*** Number of shifts: 6 ***
+Lcp lcp xpcp*** Number of shifts: 7 ***
+Mdq mdq yqdq*** Number of shifts: 8 ***
+Ner ner zrer*** Number of shifts: 9 ***
+Ofs ofs asfs*** Number of shifts: 10 ***
+Pgt pgt btgt*** Number of shifts: 11 ***
+Qhu qhu cuhu*** Number of shifts: 12 ***
+Riv riv dviv*** Number of shifts: 13 ***
+Sjw sjw ewjw*** Number of shifts: 14 ***
+Tkx tkx fxkx*** Number of shifts: 15 ***
+Uly uly gyly*** Number of shifts: 16 ***
+Vmz vmz hzmz*** Number of shifts: 17 ***
+Wna wna iana*** Number of shifts: 18 ***
+Xob xob jbob*** Number of shifts: 19 ***
+Ypc ypc kcpc*** Number of shifts: 20 ***
+Zqd zqd ldqd*** Number of shifts: 21 ***
+Are are mere*** Number of shifts: 22 ***
+Bsf bsf nfsf*** Number of shifts: 23 ***
+Ctg ctg ogtg*** Number of shifts: 24 ***
+Duh duh phuh*** Number of shifts: 25 ***
